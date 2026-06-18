@@ -18,6 +18,7 @@ pip install -r requirements.txt
 
 Запуск осуществляется командой в терминале `salary.py`. В результате отображается таблица с данными по вакансиям программистов в Москве:
 
+<img width="599" height="438" alt="Example" src="https://github.com/user-attachments/assets/63287806-f261-4d33-a1c2-15593f4e9388" />
 
 ### Цель проекта
 
